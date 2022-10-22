@@ -1,7 +1,6 @@
-## sample microservices architecture using spring-cloud-gateway/eureka/spring-cloud-config
+## exemplo de arquitetura de microsserviços usando spring-cloud-gateway/eureka/spring-cloud-config
 
-### Relevant information:
+### Informação relevante:
 
 * Swagger-ui : http://localhost:8060/swagger-ui.html
 * Eureka: http://localhost:8761/
-
